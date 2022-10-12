@@ -15,7 +15,7 @@
 ## Работа с изображениями
 
 Чтобы вставить изображение в текст, достаточно написать следующее: 
-![Funny stickman face](stickman.jpg)
+![Funny stickman face](Stickman.png)
 
 ## Ссылки 
 
